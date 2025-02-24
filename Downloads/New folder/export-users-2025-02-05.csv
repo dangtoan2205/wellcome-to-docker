@@ -1,0 +1,155 @@
+﻿Name,Title,Email,Phone,Username,Department,Location,Manager,Assets,Licenses,Consumables,Accessories,"Managed Users","Managed Locations",Notes,Groups,"Login Enabled"
+"Admin Local",,toan.dang@seta-international.vn,,toandn,,,,0,0,0,0,0,0,,,True
+"An Đình Luận",,luan.an@setainternational.vn,,luan.an,,,,4,0,0,0,0,0,,,False
+"Bùi Đình Sang",,,,sang.bui,,,,2,0,0,0,0,0,,,False
+"Bùi Long Vũ",,vu.bui@setainternational.vn,,vu.bui,,,,1,0,0,0,0,0,,,False
+"Bùi Quang Việt",,,,viet.bui,,,,3,0,0,0,0,0,,,False
+"Bùi Tiến Đạt",,dat.bui@setainternational.vn,,dat.bui,,,,3,0,0,0,0,0,,,False
+"Bùi Văn Quang",,quang.bui@setainternational.vn,,quang.bui,,,,2,0,0,0,0,0,,,False
+"Bùi Xuân Tùng",,tung.bui@setainternational.vn,,tung.bui,,,,3,0,0,0,0,0,,,False
+"Chu Dương Phương Nam",,nam.chu@setainternational.vn,,nam.chu,,,,2,0,0,0,0,0,,,False
+"Chu Hồng Hạnh",,hanh.chu@setainternational.vn,,hanh.chu,,,,3,0,0,0,0,0,,,False
+"Chu Văn Đạt",,dat.chu@setainternational.vn,,dat.chu,,,,3,0,0,0,0,0,,,False
+"Doãn Thị Thu Huyền",,huyen.doan@setainternational.vn,,huyen.doan,,,,4,0,0,0,0,0,,,False
+"Dương Thị Bích Ngọc",,ngoc.duong@setainternational.vn,,ngoc.duong,,,,1,0,0,0,0,0,,,False
+"Đặng Ngọc Toàn",,toan.dang@setainternational.vn,,toan.dang,,,,5,0,0,0,0,0,,,False
+"Đặng Nhật Minh",,minh.dang@setainternational.vn,,minh.dang,,,,4,0,0,0,0,0,,,False
+"Đặng Toàn Thắng",,thang.dang@setainternational.vn,,thang.dang,,,,2,0,0,0,0,0,,,False
+"Đặng Văn Tuấn",,,,tuan.dang,,,,3,0,0,0,0,0,,,False
+"Đặng Việt Tiến",,tien.dang@setainternational.vn,,tien.dang,,,,5,0,0,0,0,0,,,False
+"Đặng Vũ Hoàng Hiệp",,hiep.dang@setainternational.vn,,hiep.dang,,,,3,0,0,0,0,0,,,False
+"Đào Hải Long",,,,long.dao,,,,0,0,0,0,0,0,,,False
+"Đào Thị Quỳnh Anh",,anh.dao@setainternational.vn,,anh.dao,,,,8,0,0,0,0,0,,,False
+"Đào Thị Thu Huyền",,,,huyen.dao,,,,5,0,0,0,0,0,,,False
+"Đào Thu Trang",,trang.dao@setainternational.vn,,trang.dao,,,,3,0,0,0,0,0,,,False
+"Đào Xuân Thắng",,thang.dao@setainternational.vn,,thang.dao,,,,6,0,0,0,0,0,,,False
+"Điền Văn Linh",,linh.dien@setainternational.vn,,linh.dien,,,,2,0,0,0,0,0,,,False
+"Đinh Lan Hương",,huong.dinh@setainternational.vn,,huong.dinh,,,,3,0,0,0,0,0,,,False
+"Đinh Ngọc Dũng",,dung.dinh@setainternational.vn,,dung.dinh,,,,2,0,0,0,0,0,,,False
+"Đinh Quang Thắng",,,,thanh.dinh,,,,1,0,0,0,0,0,,,False
+"Đỗ Minh Hiếu",,hieu.do@setainternational.vn,,hieu.do,,,,4,0,0,0,0,0,,,False
+"Đỗ Nguyễn Lan Anh",,,,lananh.nguyen,,,,1,0,0,0,0,0,,,False
+"Đỗ Tiến Đạt",,dat.do@setainternational.vn,,dat.do,,,,5,0,0,0,0,0,,,False
+"Đỗ Văn Triều",,trieu.do@setainternational.vn,,trieu.do,,,,5,0,0,0,0,0,,,False
+"Đỗ Văn Chung",,chung.do@setainternational.vn,,chung.do,,,,5,0,0,0,0,0,,,False
+"Đoàn Ngọc Vinh",,vinh.doan@setainternational.vn,,vinh.doan,,,,1,0,0,0,0,0,,,False
+"Đoàn Thị Thu Hà",,ha.doan@setainternational.vn,,ha.doan,,,,1,0,0,0,0,0,,,False
+"Hà Đức Sơn",,son.ha@setainternational.vn,,son.ha,,,,4,0,0,0,0,0,,,False
+"Hà Quốc Huy",,huy.ha@setainternational.vn,,huy.ha,,,,3,0,0,0,0,0,,,False
+"Hà Tuấn Minh",,minh.ha@setainternational.vn,,minh.ha,,,,4,0,0,0,0,0,,,False
+"Hoàng Đức Mạnh",,manh.hoang@setainternational.vn,,manh.hoang,,,,2,0,0,0,0,0,,,False
+"Hoàng Hồng Hà",,ha.hoang@setainternational.vn,,ha.hoang,,,,4,0,0,0,0,0,,,False
+"Hoàng Mạnh Linh",,linh.hoang@setainternational.vn,,linh.hoang,,,,4,0,0,0,0,0,,,False
+"Hoàng Minh Thái",,thai.hoang@setainternational.vn,,thai.hoang,,,,2,0,0,0,0,0,,,False
+"Hoàng Phó Nam",,nam.hoang@setainternational.vn,,nam.hoang,,,,2,0,0,0,0,0,,,False
+"Hoàng Quốc Đạt",,,,dat.hoang,,,,2,0,0,0,0,0,,,False
+"Hoàng Văn Quỳnh",,quynh.hoang@setainternational.vn,,quynh.hoang,,,,2,0,0,0,0,0,,,False
+"Kiều Đức Khương",,khuong.kieu@seta-international.vn,,khuong.kieu,,,,0,0,0,0,0,0,,,True
+"Lê Mai Anh",,,,anh.le,,,,2,0,0,0,0,0,,,False
+"Lê Minh Tuấn",,,,tuan.leminh,,,,3,0,0,0,0,0,,,False
+"Lê Minh Khang",,,,khang.le,,,,3,0,0,0,0,0,,,False
+"Lê Phương Thu",,thu.le@setainternational.vn,,thu.le,,,,2,0,0,0,0,0,,,False
+"Lê Quang Tuấn",,tuan.le@setainternational.vn,,tuan.le,,,,4,0,0,0,0,0,,,False
+"Lương Ngọc Mai",,mai.luong@setainternational.vn,,mai.luong,,,,1,0,0,0,0,0,,,False
+"Lưu Minh Hiếu",,hieu.luu@setainternational.vn,,hieu.luu,,,,1,0,0,0,0,0,,,False
+"Mai Huyền Trang",,,,trang.mai,,,,1,0,0,0,0,0,,,False
+"Mai Thị Hằng",,hang.mai@setainternational.vn,,hang.mai,,,,5,0,0,0,0,0,,,False
+"Mai Xuân Thứ",,,,thu.mai,,,,1,0,0,0,0,0,,,False
+NA,,,,NA,,,,4,0,0,0,0,0,,,False
+"Ngô Phú Lân",,lan.ngo@setainternational.vn,,lan.ngo,,,,3,0,0,0,0,0,,,False
+"Ngô Thanh Tình",,tinh.ngo@setainternational.vn,,tinh.ngo,,,,6,0,0,0,0,0,,,False
+"Ngô Vũ Thịnh",,thinh.ngo@setainternational.vn,,thinh.ngo,,,,3,0,0,0,0,0,,,False
+"Nguyễn Bảo Long",,,,long.nguyenbao,,,,4,0,0,0,0,0,,,False
+"Nguyễn Chí Hòa",,hoa.nguyen@setainternational.vn,,hoa.nguyen,,,,5,0,0,0,0,0,,,False
+"Nguyễn Chí Kiên",,kien.nguyen@setainternational.vn,,kien.nguyen,,,,1,0,0,0,0,0,,,False
+"Nguyễn Công Thành",,thanh.nguyen@setainternational.vn,,thanh.nguyen,,,,2,0,0,0,0,0,,,False
+"Nguyễn Danh Phương",,phuong.nguyen@setainternational.vn,,phuong.nguyen,,,,6,0,0,0,0,0,,,False
+"Nguyễn Duy Quang",,quang.nguyen@setainternational.vn,,quang.nguyen,,,,5,0,0,0,0,0,,,False
+"Nguyễn Duy Đạt",,,,dat.nguyenduy,,,,1,0,0,0,0,0,,,False
+"Nguyễn Duy Long",,,,long.nguyenduy,,,,1,0,0,0,0,0,,,False
+"Nguyễn Duy Lâm Tùng",,,,duy.nguyenduy,,,,4,0,0,0,0,0,,,False
+"Nguyễn Đình Dũng",,dung.nguyen@setainternational.vn,,dung.nguyen,,,,3,0,0,0,0,0,,,False
+"Nguyễn Đình Đạt",,dat.nguyen@setainternational.vn,,dat.nguyen,,,,4,0,0,0,0,0,,,False
+"Nguyễn Đức Long",,long.nguyen@setainternational.vn,,long.nguyen,,,,4,0,0,0,0,0,,,False
+"Nguyễn Đức Thắng",,thang.nguyen@setainternational.vn,,thang.nguyen,,,,2,0,0,0,0,0,,,False
+"Nguyễn Đức An",,an.nguyen@setainternational.vn,,an.nguyen,,,,1,0,0,0,0,0,,,False
+"Nguyễn Đức Quân",,,,quan.nguyenduc,,,,1,0,0,0,0,0,,,False
+"Nguyễn Đức Minh",,,,minh.nguyenduc,,,,3,0,0,0,0,0,,,False
+"Nguyễn Hiệp Bình",,,,binh.nguyen,,,,1,0,0,0,0,0,,,False
+"Nguyễn Hoài Nam",,,,nam.nguyenhoai,,,,8,0,0,0,0,0,,,False
+"Nguyễn Hồng Nhung",,,,nhung.nguyenhong,,,,2,0,0,0,0,0,,,False
+"Nguyễn Hữu Quân",,quan.nguyen@setainternational.vn,,quan.nguyen,,,,2,0,0,0,0,0,,,False
+"Nguyễn Lê Hoàng Anh",,,,anh.nguyenle,,,,1,0,0,0,0,0,,,False
+"Nguyễn Mỹ Anh",,,,anh.nguyenmy,,,,5,0,0,0,0,0,,,False
+"Nguyễn Ngọc Duy",,duy.nguyen@setainternational.vn,,duy.nguyen,,,,3,0,0,0,0,0,,,False
+"Nguyễn Ngọc Kim Chi",,chi.nguyen@setainternational.vn,,chi.nguyen,,,,1,0,0,0,0,0,,,False
+"Nguyễn Ngọc Mai Vy",,,,vy.nguyen,,,,1,0,0,0,0,0,,,False
+"Nguyễn Ngọc Trường Sơn",,son.nguyen@setainternational.vn,,son.nguyen,,,,2,0,0,0,0,0,,,False
+"Nguyễn Quang Huy",,huy.nguyen@setainternational.vn,,huy.nguyen,,,,4,0,0,0,0,0,,,False
+"Nguyễn Quỳnh Nga",,,,nga.nguyen,,,,0,0,0,0,0,0,,,False
+"Nguyễn Sơn Tùng",,,,tung.nguyen,,,,1,0,0,0,0,0,,,False
+"Nguyễn Sỹ Duy",,,,duy.nguyensy,,,,3,0,0,0,0,0,,,False
+"Nguyễn Thị Hường",,huong.nguyen@setainternational.vn,,huong.nguyen,,,,5,0,0,0,0,0,,,False
+"Nguyễn Thị Thúy",,thuy.nguyen@setainternational.vn,,thuy.nguyen,,,,1,0,0,0,0,0,,,False
+"Nguyễn Thị Hương",,,,huong.nguyenthi,,,,6,0,0,0,0,0,,,False
+"Nguyễn Thị Thành",,,,thanh.nguyenthi,,,,1,0,0,0,0,0,,,False
+"Nguyễn Thị Diệu Huyền",,huyen.nguyen@setainternational.vn,,huyen.nguyen,,,,5,0,0,0,0,0,,,False
+"Nguyễn Thị Hồng Ngọc",,ngoc.nguyen@setainternational.vn,,ngoc.nguyen,,,,2,0,0,0,0,0,,,False
+"Nguyễn Thị Minh Hương",,,,huong.nguyenminh,,,,2,0,0,0,0,0,,,False
+"Nguyễn Thị Ngọc Nhung",,nhung.nguyen@setainternational.vn,,nhung.nguyen,,,,1,0,0,0,0,0,,,False
+"Nguyễn Thị Thùy Linh",,linh.nguyen@setainternational.vn,,linh.nguyen,,,,3,0,0,0,0,0,,,False
+"Nguyễn Thu Thiện Minh",,,,minh.nguyenthu,,,,1,0,0,0,0,0,,,False
+"Nguyễn Trần Nhật Anh",,anh.nguyen@setainternational.vn,,anh.nguyen,,,,6,0,0,0,0,0,,,False
+"Nguyễn Trí Thành",,,,thanh.nguyentri,,,,4,0,0,0,0,0,,,False
+"Nguyễn Trung Hiếu",,hieu.nguyen@setainternational.vn,,hieu.nguyen,,,,4,0,0,0,0,0,,,False
+"Nguyễn Trung Phúc",,,,phuc.nguyentrung,,,,4,0,0,0,0,0,,,False
+"Nguyễn Tuấn Dương",,duong.nguyen@setainternational.vn,,duong.nguyen,,,,4,0,0,0,0,0,,,False
+"Nguyễn Tuấn Minh",,minh.nguyen@setainternational.vn,,minh.nguyen,,,,4,0,0,0,0,0,,,False
+"Nguyễn Văn Sự",,su.nguyen@setainternational.vn,,su.nguyen,,,,5,0,0,0,0,0,,,False
+"Nguyễn Văn Nam",,nam.nguyen@setainternational.vn,,nam.nguyen,,,,4,0,0,0,0,0,,,False
+"Nguyễn Văn Hoàn",,hoan.nguyen@setainternational.vn,,hoan.nguyen,,,,4,0,0,0,0,0,,,False
+"Nguyễn Văn Hòa",,,,hoa.nguyenvan,,,,2,0,0,0,0,0,,,False
+"Nguyễn Viết Xuân",,xuan.nguyen@setainternational.vn,,xuan.nguyen,,,,4,0,0,0,0,0,,,False
+"Nguyễn Việt Phú",,phu.nguyen@setainternational.vn,,phu.nguyen,,,,4,0,0,0,0,0,,,False
+"Nguyễn Việt Hoàng",,,,hoang.nguyen,,,,2,0,0,0,0,0,,,False
+"Nguyễn Viết Minh",,,,minh.nguyenviet,,,,1,0,0,0,0,0,,,False
+"Nguyễn Xuân Nghĩa",,nghia.nguyen@setainternational.vn,,nghia.nguyen,,,,6,0,0,0,0,0,,,False
+"Phạm Đình Hùng",,,,hung.phamdinh,,,,4,0,0,0,0,0,,,False
+"Phạm Hùng Lương",,luong.pham@setainternational.vn,,luong.pham,,,,3,0,0,0,0,0,,,False
+"Phạm Khánh Nam",,,,nam.pham,,,,2,0,0,0,0,0,,,False
+"Phạm Mai Anh",,anh.pham@setainternational.vn,,anh.pham,,,,6,0,0,0,0,0,,,False
+"Phạm Ngọc Bảo Châu",,,,chau.pham,,,,3,0,0,0,0,0,,,False
+"Phạm Thành Trung",,,,trung.phamthanh,,,,1,0,0,0,0,0,,,False
+"Phạm Thị Hương",,huong.pham@setainternational.vn,,huong.pham,,,,5,0,0,0,0,0,,,False
+"Phạm Thị Ngọc Lan",,lan.pham@setainternational.vn,,lan.pham,,,,7,0,0,0,0,0,,,False
+"Phạm Văn Hùng",,hung.pham@setainternational.vn,,hung.pham,,,,4,0,0,0,0,0,,,False
+"Phạm Văn Phúc",,,,phuc.pham,,,,1,0,0,0,0,0,,,False
+"Phan Đức Duy",,,,duy.phan,,,,1,0,0,0,0,0,,,False
+"Phan Thanh Tùng",,tung.phan@setainternational.vn,,tung.phan,,,,2,0,0,0,0,0,,,False
+"Phí Hoàng Anh",,,,anh.phi,,,,2,0,0,0,0,0,,,False
+"Phùng Văn Đại",,dai.phung@setainternational.vn,,dai.phung,,,,4,0,0,0,0,0,,,False
+"Sa Văn Sơn",,,,son.sa,,,,1,0,0,0,0,0,,,False
+"Tạ Cao Cảnh",,canh.ta@setainternational.vn,,canh.ta,,,,3,0,0,0,0,0,,,False
+"Tạ Đình Thăng",,thang.ta@setainternational.vn,,thang.ta,,,,2,0,0,0,0,0,,,False
+"Thạch Tuấn Anh",,anh.thach@setainternational.vn,,anh.thach,,,,4,0,0,0,0,0,,,False
+"Trần Hoàng Giang",,giang.tran@setainternational.vn,,giang.tran,,,,3,0,0,0,0,0,,,False
+"Trần Huyền Trang",,,,trang.tranhuyen,,,,1,0,0,0,0,0,,,False
+"Trần Ngọc Thu",,thu.tran@setainternational.vn,,thu.tran,,,,5,0,0,0,0,0,,,False
+"Trần Phi Long",,long.tran@setainternational.vn,,long.tran,,,,5,0,0,0,0,0,,,False
+"Trần Phương Nam",,nam.tran@setainternational.vn,,nam.tran,,,,4,0,0,0,0,0,,,False
+"Trần Quốc Đạt",,,,dat.tran,,,,2,0,0,0,0,0,,,False
+"Trần Thế Hải",,hai.tran@setainternational.vn,,hai.tran,,,,3,0,0,0,0,0,,,False
+"Trần Trọng Đức",,duc.tran@setainternational.vn,,duc.tran,,,,1,0,0,0,0,0,,,False
+"Trần Tú Trang",,trang.tran@setainternational.vn,,trang.tran,,,,2,0,0,0,0,0,,,False
+"Trần Văn Ngọ",,ngo.tran@setainternational.vn,,ngo.tran,,,,5,0,0,0,0,0,,,False
+"Trần Văn Cần",,can.tran@setainternational.vn,,can.tran,,,,6,0,0,0,0,0,,,False
+"Trương Hữu Nhật",,nhat.truong@setainternational.vn,,nhat.truong,,,,5,0,0,0,0,0,,,False
+"Vũ Đăng Phúc",,phuc.vu@setainternational.vn,,phuc.vu,,,,2,0,0,0,0,0,,,False
+"Vũ Đình Phong",,phong.vu@setainternational.vn,,phong.vu,,,,3,0,0,0,0,0,,,False
+"Vũ Khương Duy",,duy.vu@setainternational.vn,,duy.vu,,,,5,0,0,0,0,0,,,False
+"Vũ Ngọc Phong",,,,phong.vungoc,,,,6,0,0,0,0,0,,"View Local",False
+"Vũ Thanh Hùng",,hung.vu@setainternational.vn,,hung.vu,,,,2,0,0,0,0,0,,,False
+"Vũ Trường Sơn",,,,son.vutruong,,,,3,0,0,0,0,0,,,False
+"Vũ Tùng Dương",,duong.vu@setainternational.vn,,duong.vu,,,,5,0,0,0,0,0,,,False
+"Vũ Xuân Hồng",,hong.vu@setainternational.vn,,hong.vu,,,,2,0,0,0,0,0,,,False
+"Vương Anh Trung",,trung.vuong@setainternational.vn,,trung.vuong,,,,1,0,0,0,0,0,,,False
